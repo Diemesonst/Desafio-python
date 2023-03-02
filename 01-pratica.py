@@ -11,4 +11,4 @@ while (cont < 2):
 print("\033[1;35m\n\n**Você conseguiu finalizar o desafio**\n")
 
 for nome in informacoes:
-    print(f'Paraéns {nome}')
+    print(f'Parabens {nome}')
